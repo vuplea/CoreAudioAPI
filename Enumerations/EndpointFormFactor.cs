@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Enumerations
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Defines constants that indicate the general physical attributes of an audio endpoint device.

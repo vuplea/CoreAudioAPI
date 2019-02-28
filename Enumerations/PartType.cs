@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Enumerations
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Defines constants that indicate whether a part in a device topology is a connector or subunit.

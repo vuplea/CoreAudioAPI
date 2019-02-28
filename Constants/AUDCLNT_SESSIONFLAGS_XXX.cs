@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vannatech.CoreAudio.Constants
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Indicate characteristics of an audio session associated with the stream.

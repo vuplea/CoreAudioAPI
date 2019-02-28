@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Externals
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Exposes methods for enumerating, getting, and setting property values.

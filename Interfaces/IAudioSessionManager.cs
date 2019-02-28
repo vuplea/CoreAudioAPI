@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Enables a client to access the session controls and volume controls for both cross-process and process-specific audio sessions.

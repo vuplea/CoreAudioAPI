@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using Vannatech.CoreAudio.Constants;
 
 // This file does not contain any actual interface members.
 // It is only intended to abstract away COM specifics, such as IIDs.
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     // -------------------------------------------------
     // Begin MMDevice API definitions:

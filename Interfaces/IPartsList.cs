@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Represents a list of parts, each of which is an object with an <see cref="IPart"/> interface that represents a connector or subunit.

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Used to adjust the sample rate of a stream.

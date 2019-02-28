@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using Vannatech.CoreAudio.Enumerations;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Enables a client to write output data to a rendering endpoint buffer.

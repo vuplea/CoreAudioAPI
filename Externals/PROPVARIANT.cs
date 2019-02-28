@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Externals
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Used by the <see cref="IPropertyStore.GetValue"/> and <see cref="IPropertyStore.SetValue"/> methods

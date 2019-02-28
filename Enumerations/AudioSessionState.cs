@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Enumerations
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Defines constants that indicate the current state of an audio session.

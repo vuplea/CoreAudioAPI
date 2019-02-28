@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Represents a control interface on a part (connector or subunit) in a device topology.

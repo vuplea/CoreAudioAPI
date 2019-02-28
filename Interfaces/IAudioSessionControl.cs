@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using Vannatech.CoreAudio.Enumerations;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Enables a client to configure the control parameters for an audio session and to monitor events in the session.

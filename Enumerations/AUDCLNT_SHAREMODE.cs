@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Enumerations
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Defines constants that indicate whether an audio stream will run in shared mode or in exclusive mode.

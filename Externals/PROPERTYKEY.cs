@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Externals
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Specifies the FMTID/PID identifier that programmatically identifies a property.

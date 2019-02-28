@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vannatech.CoreAudio.Externals
+namespace CoreAudioAPI
 {
     /// <summary>
     /// The STGM constants are flags that indicate conditions for creating and deleting the object and access modes for the object.

@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using Vannatech.CoreAudio.Enumerations;
-using Vannatech.CoreAudio.Externals;
-using Vannatech.CoreAudio.Constants;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Provides notifications when an audio endpoint device is added or removed, when the state

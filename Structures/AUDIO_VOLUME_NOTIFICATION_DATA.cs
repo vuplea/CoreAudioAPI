@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Structures
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Describes a change in the volume level or muting state of an audio endpoint device.

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vannatech.CoreAudio.Externals
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Values that are used in activation calls to indicate the execution contexts in which an object is to be run.

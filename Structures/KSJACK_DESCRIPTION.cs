@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Vannatech.CoreAudio.Structures
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Describes an audio jack.

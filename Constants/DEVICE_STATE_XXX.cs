@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vannatech.CoreAudio.Constants
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Indicate the current state of an audio endpoint device. 

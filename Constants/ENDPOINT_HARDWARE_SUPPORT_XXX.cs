@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vannatech.CoreAudio.Constants
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Hardware support flags for an audio endpoint device.

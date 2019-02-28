@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using Vannatech.CoreAudio.Externals;
-using Vannatech.CoreAudio.Enumerations;
-using Vannatech.CoreAudio.Constants;
 
-namespace Vannatech.CoreAudio.Interfaces
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Enables a client to create and initialize an audio stream between an audio application and the

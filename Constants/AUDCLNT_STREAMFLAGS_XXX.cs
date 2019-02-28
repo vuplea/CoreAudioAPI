@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Vannatech.CoreAudio.Constants
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Indicate special characteristics that a client can assign to an audio stream during the initialization of the stream.

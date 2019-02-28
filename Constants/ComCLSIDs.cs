@@ -2,7 +2,7 @@
 // These constants are self documenting
 #pragma warning disable 1591
 
-namespace Vannatech.CoreAudio.Constants
+namespace CoreAudioAPI
 {
     /// <summary>
     /// Defines all COM CLSIDs applicable to CoreAudio API.
